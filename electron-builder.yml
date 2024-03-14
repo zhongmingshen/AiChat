@@ -1,0 +1,9 @@
+appId: AIChat
+productName: AIChat
+directories:
+  output: build
+files:
+  - "!**/*"
+  - "dist/**/*"
+  - "electron/**/*"
+  - "package.json"
